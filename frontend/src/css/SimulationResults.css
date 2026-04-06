@@ -1,0 +1,61 @@
+.resultsOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+
+    background-color: rgba(0, 0, 0, 0.5);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    z-index: 9998;
+}
+
+.resultsContainer {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 80vw;
+    height: 80vh;
+
+    border: 20px solid transparent;
+    border-image: url("../assets/images/border.png") 80 stretch;
+
+    background-color: white;
+    font-family: 'Pokemon Generation 1 Regular', sans-serif;
+
+    z-index: 9999;
+}
+
+.resultsText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+
+.resultsText li {
+    margin: 5%;
+}
+
+.resultsButtons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+
+.resultsButtons button {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}

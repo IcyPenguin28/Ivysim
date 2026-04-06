@@ -1,0 +1,25 @@
+.img-column {
+    display:flex;
+    height: 100vh;
+    width: 10px;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+#player {
+    position:absolute;
+    left:10%;
+    background-color:#e85382ff;
+}
+
+#player img{
+    cursor: pointer;
+}
+
+#enemy {
+    position:absolute;
+    right:10%;
+    background-color:#5dc1cfff;
+}

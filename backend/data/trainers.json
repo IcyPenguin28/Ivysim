@@ -1,0 +1,984 @@
+{
+    "blue1g": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1],
+        "team": [
+            {
+                "species": "bulbasaur",
+                "level": 5,
+                "moves": ["tackle", "growl"]
+            }
+        ]
+    },
+    "blue1f": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1],
+        "team": [
+            {
+                "species": "charmander",
+                "level": 5,
+                "moves": ["scratch", "growl"]
+            }
+        ]
+    },
+    "blue1w": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1],
+        "team": [
+            {
+                "species": "squirtle",
+                "level": 5,
+                "moves": ["tackle", "tail whip"]
+            }
+        ]
+    },
+    "blue2g": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1],
+        "team": [
+            {
+                "species": "pidgey",
+                "level": 9,
+                "moves": ["gust", "sand attack"]
+            },
+            {
+                "species": "bulbasaur",
+                "level": 8,
+                "moves": ["tackle", "growl", "leech seed"]
+            }
+        ]
+    },
+    "blue2f": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1],
+        "team": [
+            {
+                "species": "pidgey",
+                "level": 9,
+                "moves": ["gust", "sand attack"]
+            },
+            {
+                "species": "charmander",
+                "level": 8,
+                "moves": ["scratch", "growl"]
+            }
+        ]
+    },
+    "blue2w": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1],
+        "team": [
+            {
+                "species": "pidgey",
+                "level": 9,
+                "moves": ["gust", "sand attack"]
+            },
+            {
+                "species": "squirtle",
+                "level": 8,
+                "moves": ["tackle", "tail whip", "bubble"]
+            }
+        ]
+    },
+    "blue3g": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1],
+        "team": [
+            {
+                "species": "pidgeotto",
+                "level": 18,
+                "moves": ["gust", "sand attack", "quick attack"]
+            },
+            {
+                "species": "rattata",
+                "level": 15,
+                "moves": ["tackle", "tail whip", "quick attack", "hyper fang"]
+            },
+            {
+                "species": "abra",
+                "level": 15,
+                "moves": ["teleport"]
+            },
+            {
+                "species": "bulbasaur",
+                "level": 17,
+                "moves": ["tackle", "growl", "leech seed", "vine whip"]
+            }
+        ]
+    },
+    "blue3f": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1],
+        "team": [
+            {
+                "species": "pidgeotto",
+                "level": 18,
+                "moves": ["gust", "sand attack", "quick attack"]
+            },
+            {
+                "species": "rattata",
+                "level": 15,
+                "moves": ["tackle", "tail whip", "quick attack", "hyper fang"]
+            },
+            {
+                "species": "abra",
+                "level": 15,
+                "moves": ["teleport"]
+            },
+            {
+                "species": "charmander",
+                "level": 17,
+                "moves": ["tackle", "growl", "leer", "ember"]
+            }
+        ]
+    },
+    "blue3w": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1],
+        "team": [
+            {
+                "species": "pidgeotto",
+                "level": 18,
+                "moves": ["gust", "sand attack", "quick attack"]
+            },
+            {
+                "species": "rattata",
+                "level": 15,
+                "moves": ["tackle", "tail whip", "quick attack", "hyper fang"]
+            },
+            {
+                "species": "abra",
+                "level": 15,
+                "moves": ["teleport"]
+            },
+            {
+                "species": "squirtle",
+                "level": 17,
+                "moves": ["tackle", "growl", "bubble", "water gun"]
+            }
+        ]
+    },
+    "blue4g": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeotto",
+                "level": 19,
+                "moves": ["gust", "sand attack", "quick attack"]
+            },
+            {
+                "species": "raticate",
+                "level": 16,
+                "moves": ["tackle", "tail whip", "quick attack", "hyper fang"]
+            },
+            {
+                "species": "kadabra",
+                "level": 18,
+                "moves": ["teleport", "confusion"]
+            },
+            {
+                "species": "ivysaur",
+                "level": 20,
+                "moves": ["tackle", "growl", "leech seed", "vine whip"]
+            }
+        ]
+    },
+    "blue4f": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeotto",
+                "level": 19,
+                "moves": ["gust", "sand attack", "quick attack"]
+            },
+            {
+                "species": "raticate",
+                "level": 16,
+                "moves": ["tackle", "tail whip", "quick attack", "hyper fang"]
+            },
+            {
+                "species": "kadabra",
+                "level": 18,
+                "moves": ["teleport", "confusion"]
+            },
+            {
+                "species": "charmeleon",
+                "level": 20,
+                "moves": ["tackle", "growl", "leer", "ember"]
+            }
+        ]
+    },
+    "blue4w": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeotto",
+                "level": 19,
+                "moves": ["gust", "sand attack", "quick attack"]
+            },
+            {
+                "species": "raticate",
+                "level": 16,
+                "moves": ["tackle", "tail whip", "quick attack", "hyper fang"]
+            },
+            {
+                "species": "kadabra",
+                "level": 18,
+                "moves": ["teleport", "confusion"]
+            },
+            {
+                "species": "wartortle",
+                "level": 20,
+                "moves": ["tackle", "growl", "bubble", "water gun"]
+            }
+        ]
+    },
+    "blue5g": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeotto",
+                "level": 25,
+                "moves": ["gust", "sand attack", "quick attack", "whirlwind"]
+            },
+            {
+                "species": "kadabra",
+                "level": 18,
+                "moves": ["teleport", "confusion", "disable"]
+            },
+            {
+                "species": "growlithe",
+                "level": 23,
+                "moves": ["bite", "roar", "ember"]
+            },
+            {
+                "species": "gyarados",
+                "level": 22,
+                "moves": ["thrash", "tackle", "bite"]
+            },
+            {
+                "species": "ivysaur",
+                "level": 25,
+                "moves": ["growl", "leech seed", "vine whip", "poison powder"]
+            }
+        ]
+    },
+    "blue5f": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeotto",
+                "level": 25,
+                "moves": ["gust", "sand attack", "quick attack", "whirlwind"]
+            },
+            {
+                "species": "kadabra",
+                "level": 18,
+                "moves": ["teleport", "confusion", "disable"]
+            },
+            {
+                "species": "exeggcute",
+                "level": 23,
+                "moves": ["barrage", "hypnosis"]
+            },
+            {
+                "species": "gyarados",
+                "level": 22,
+                "moves": ["thrash", "tackle", "bite"]
+            },
+            {
+                "species": "charmeleon",
+                "level": 25,
+                "moves": ["growl", "ember", "leer", "rage"]
+            }
+        ]
+    },
+    "blue5w": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeotto",
+                "level": 25,
+                "moves": ["gust", "sand attack", "quick attack", "whirlwind"]
+            },
+            {
+                "species": "kadabra",
+                "level": 18,
+                "moves": ["teleport", "confusion", "disable"]
+            },
+            {
+                "species": "exeggcute",
+                "level": 23,
+                "moves": ["barrage", "hypnosis"]
+            },
+            {
+                "species": "growlithe",
+                "level": 22,
+                "moves": ["bite", "roar", "ember"]
+            },
+            {
+                "species": "wartortle",
+                "level": 25,
+                "moves": ["tail whip", "bubble", "water gun", "bite"]
+            }
+        ]
+    },
+    "blue6g": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeot",
+                "level": 37,
+                "moves": ["wing attack", "sand attack", "quick attack", "whirlwind"]
+            },
+            {
+                "species": "alakazam",
+                "level": 35,
+                "moves": ["psybeam", "confusion", "disable", "recover"]
+            },
+            {
+                "species": "gyarados",
+                "level": 38,
+                "moves": ["dragon rage", "tackle", "bite", "leer"]
+            },
+            {
+                "species": "growlithe",
+                "level": 35,
+                "moves": ["roar", "ember", "leer", "take down"]
+            },
+            {
+                "species": "venusaur",
+                "level": 40,
+                "moves": ["leech seed", "vine whip", "poison powder", "razor leaf"]
+            }
+        ]
+    },
+    "blue6f": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeot",
+                "level": 37,
+                "moves": ["wing attack", "sand attack", "quick attack", "whirlwind"]
+            },
+            {
+                "species": "alakazam",
+                "level": 35,
+                "moves": ["psybeam", "confusion", "disable", "recover"]
+            },
+            {
+                "species": "exeggcute",
+                "level": 38,
+                "moves": ["reflect", "hypnosis", "leech seed", "stun spore"]
+            },
+            {
+                "species": "gyarados",
+                "level": 35,
+                "moves": ["dragon rage", "tackle", "bite", "leer"]
+            },
+            {
+                "species": "charizard",
+                "level": 40,
+                "moves": ["slash", "ember", "leer", "rage"]
+            }
+        ]
+    },
+    "blue6w": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeot",
+                "level": 37,
+                "moves": ["wing attack", "sand attack", "quick attack", "whirlwind"]
+            },
+            {
+                "species": "alakazam",
+                "level": 35,
+                "moves": ["psybeam", "confusion", "disable", "recover"]
+            },
+            {
+                "species": "growlithe",
+                "level": 38,
+                "moves": ["roar", "ember", "leer", "take down"]
+            },
+            {
+                "species": "exeggcute",
+                "level": 35,
+                "moves": ["reflect", "hypnosis", "leech seed", "stun spore"]
+            },
+            {
+                "species": "blastoise",
+                "level": 40,
+                "moves": ["bubble", "water gun", "bite", "withdraw"]
+            }
+        ]
+    },
+    "blue7g": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeot",
+                "level": 47,
+                "moves": ["wing attack", "sand attack", "quick attack", "whirlwind"]
+            },
+            {
+                "species": "alakazam",
+                "level": 50,
+                "moves": ["psychic", "psybeam", "reflect", "recover"]
+            },
+            {
+                "species": "rhyhorn",
+                "level": 45,
+                "moves": ["fury attack", "stomp", "horn attack", "tail whip"]
+            },
+            {
+                "species": "growlithe",
+                "level": 45,
+                "moves": ["ember", "leer", "take down", "agility"]
+            },
+            {
+                "species": "gyarados",
+                "level": 47,
+                "moves": ["dragon rage", "hydro pump", "bite", "leer"]
+            },
+            {
+                "species": "venusaur",
+                "level": 53,
+                "moves": ["vine whip", "poison powder", "razor leaf", "growth"]
+            }
+        ]
+    },
+    "blue7f": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeot",
+                "level": 47,
+                "moves": ["wing attack", "sand attack", "quick attack", "whirlwind"]
+            },
+            {
+                "species": "alakazam",
+                "level": 50,
+                "moves": ["psychic", "psybeam", "reflect", "recover"]
+            },
+            {
+                "species": "rhyhorn",
+                "level": 45,
+                "moves": ["fury attack", "stomp", "horn attack", "tail whip"]
+            },
+            {
+                "species": "gyarados",
+                "level": 45,
+                "moves": ["dragon rage", "hydro pump", "bite", "leer"]
+            },
+            {
+                "species": "exeggcute",
+                "level": 47,
+                "moves": ["leech seed", "poison powder", "solar beam", "stun spore"]
+            },
+            {
+                "species": "charizard",
+                "level": 53,
+                "moves": ["flamethrower", "slash", "rage", "leer"]
+            }
+        ]
+    },
+    "blue7w": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeot",
+                "level": 47,
+                "moves": ["wing attack", "sand attack", "quick attack", "whirlwind"]
+            },
+            {
+                "species": "alakazam",
+                "level": 50,
+                "moves": ["psychic", "psybeam", "reflect", "recover"]
+            },
+            {
+                "species": "rhyhorn",
+                "level": 45,
+                "moves": ["fury attack", "stomp", "horn attack", "tail whip"]
+            },
+            {
+                "species": "exeggcute",
+                "level": 45,
+                "moves": ["leech seed", "poison powder", "solar beam", "stun spore"]
+            },
+            {
+                "species": "growlithe",
+                "level": 47,
+                "moves": ["ember", "leer", "take down", "agility"]
+            },
+            {
+                "species": "blastoise",
+                "level": 53,
+                "moves": ["hydro pump", "bite", "skull bash", "withdraw"]
+            }
+        ]
+    },
+    "blue8g": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeot",
+                "level": 61,
+                "moves": ["wing attack", "mirror move", "sky attack", "whirlwind"]
+            },
+            {
+                "species": "alakazam",
+                "level": 59,
+                "moves": ["psybeam", "psychic", "reflect", "recover"]
+            },
+            {
+                "species": "rhydon",
+                "level": 61,
+                "moves": ["leer", "tail whip", "fury attack", "horn drill"]
+            },
+            {
+                "species": "arcanine",
+                "level": 63,
+                "moves": ["roar", "leer", "ember", "take down"]
+            },
+            {
+                "species": "gyarados",
+                "level": 61,
+                "moves": ["dragon rage", "hydro pump", "hyper beam", "leer"]
+            },
+            {
+                "species": "venusaur",
+                "level": 65,
+                "moves": ["growth", "mega drain", "razor leaf", "solar beam"]
+            }
+        ]
+    },
+    "blue8f": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeot",
+                "level": 61,
+                "moves": ["wing attack", "mirror move", "sky attack", "whirlwind"]
+            },
+            {
+                "species": "alakazam",
+                "level": 59,
+                "moves": ["psybeam", "psychic", "reflect", "recover"]
+            },
+            {
+                "species": "rhydon",
+                "level": 61,
+                "moves": ["leer", "tail whip", "fury attack", "horn drill"]
+            },
+            {
+                "species": "gyarados",
+                "level": 63,
+                "moves": ["dragon rage", "hydro pump", "hyper beam", "leer"]
+            },
+            {
+                "species": "exeggutor",
+                "level": 61,
+                "moves": ["hypnosis", "barrage", "stomp"]
+            },
+            {
+                "species": "charizard",
+                "level": 65,
+                "moves": ["fire blast", "rage", "slash", "fire spin"]
+            }
+        ]
+    },
+    "blue8w": {
+        "class": null,
+        "name": "BLUE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "pidgeot",
+                "level": 61,
+                "moves": ["wing attack", "mirror move", "sky attack", "whirlwind"]
+            },
+            {
+                "species": "alakazam",
+                "level": 59,
+                "moves": ["psybeam", "psychic", "reflect", "recover"]
+            },
+            {
+                "species": "rhydon",
+                "level": 61,
+                "moves": ["leer", "tail whip", "fury attack", "horn drill"]
+            },
+            {
+                "species": "arcanine",
+                "level": 63,
+                "moves": ["roar", "leer", "ember", "take down"]
+            },
+            {
+                "species": "exeggutor",
+                "level": 61,
+                "moves": ["hypnosis", "barrage", "stomp"]
+            },
+            {
+                "species": "blastoise",
+                "level": 65,
+                "moves": ["hydro pump", "blizzard", "bite", "withdraw"]
+            }
+        ]
+    },
+    "brock": {
+        "class": "Leader",
+        "name": "BROCK",
+        "categories": [1],
+        "team": [
+            {
+                "species": "geodude",
+                "level": 12,
+                "moves": ["tackle", "defense curl"]
+            },
+            {
+                "species": "onix",
+                "level": 14,
+                "moves": ["tackle", "screech", "bide"]
+            }
+        ]
+    },
+    "misty": {
+        "class": "Leader",
+        "name": "MISTY",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "staryu",
+                "level": 18,
+                "moves": ["tackle", "water gun"]
+            },
+            {
+                "species": "starmie",
+                "level": 21,
+                "moves": ["tackle", "water gun", "harden", "bubblebeam"]
+            }
+        ]
+    },
+    "surge": {
+        "class": "Leader",
+        "name": "LT. SURGE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "voltorb",
+                "level": 21,
+                "moves": ["tackle", "screech", "sonic boom"]
+            },
+            {
+                "species": "pikachu",
+                "level": 18,
+                "moves": ["thunder shock", "thunder wave", "growl", "quick attack"]
+            },
+            {
+                "species": "raichu",
+                "level": 24,
+                "moves": ["thunderbolt", "thunder shock", "thunder wave", "growl"]
+            }
+        ]
+    },
+    "erika": {
+        "class": "Leader",
+        "name": "ERIKA",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "victreebel",
+                "level": 29,
+                "moves": ["wrap", "poison powder", "sleep powder", "razor leaf"]
+            },
+            {
+                "species": "tangela",
+                "level": 24,
+                "moves": ["bind", "constrict"]
+            },
+            {
+                "species": "vileplume",
+                "level": 29,
+                "moves": ["poison powder", "mega drain", "sleep powder", "petal dance"]
+            }
+        ]
+    },
+    "koga": {
+        "class": "Leader",
+        "name": "KOGA",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "koffing",
+                "level": 37,
+                "moves": ["tackle", "smog", "sludge", "smokescreen"]
+            },
+            {
+                "species": "muk",
+                "level": 39,
+                "moves": ["disable", "poison gas", "minimize", "sludge"]
+            },
+            {
+                "species": "koffing",
+                "level": 37,
+                "moves": ["tackle", "smog", "sludge", "smokescreen"]
+            },
+            {
+                "species": "weezing",
+                "level": 43,
+                "moves": ["smog", "sludge", "toxic", "self-destruct"]
+            }
+        ]
+    },
+    "sabrina": {
+        "class": "Leader",
+        "name": "SABRINA",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "kadabra",
+                "level": 38,
+                "moves": ["disable", "psybeam", "recover", "psychic"]
+            },
+            {
+                "species": "mr. mime",
+                "level": 37,
+                "moves": ["confusion", "barrier", "light screen", "double slap"]
+            },
+            {
+                "species": "venomoth",
+                "level": 38,
+                "moves": ["poison powder", "leech life", "stun spore", "psybeam"]
+            },
+            {
+                "species": "alakazam",
+                "level": 43,
+                "moves": ["psybeam", "recover", "psywave", "reflect"]
+            }
+        ]
+    },
+    "blaine": {
+        "class": "Leader",
+        "name": "BLAINE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "growlithe",
+                "level": 42,
+                "moves": ["ember", "leer", "take down", "agility"]
+            },
+            {
+                "species": "ponyta",
+                "level": 40,
+                "moves": ["tail whip", "stomp", "growl", "fire spin"]
+            },
+            {
+                "species": "rapidash",
+                "level": 42,
+                "moves": ["tail whip", "stomp", "growl", "fire spin"]
+            },
+            {
+                "species": "arcanine",
+                "level": 47,
+                "moves": ["roar", "ember", "take down", "fire blast"]
+            }
+        ]
+    },
+    "giovanni": {
+        "class": "Leader",
+        "name": "GIOVANNI",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "rhyhorn",
+                "level": 45,
+                "moves": ["stomp", "tail whip", "fury attack", "horn attack"]
+            },
+            {
+                "species": "dugtrio",
+                "level": 42,
+                "moves": ["growl", "dig", "sand attack", "slash"]
+            },
+            {
+                "species": "nidoqueen",
+                "level": 44,
+                "moves": ["scratch", "tail whip", "poison sting", "body slam"]
+            },
+            {
+                "species": "nidoking",
+                "level": 45,
+                "moves": ["tackle", "horn attack", "poison sting", "thrash"]
+            },
+            {
+                "species": "rhydon",
+                "level": 50,
+                "moves": ["stomp", "tail whip", "fissure", "horn drill"]
+            }
+        ]
+    },
+    "lorelei": {
+        "class": "Elite",
+        "name": "LORELEI",
+        "categories": [1, 2, 3],
+        "team": [
+            {
+                "species": "dewgong",
+                "level": 54,
+                "moves": ["growl", "aurora beam", "rest", "take down"]
+            },
+            {
+                "species": "cloyster",
+                "level": 53,
+                "moves": ["supersonic", "clamp", "aurora beam", "spike cannon"]
+            },
+            {
+                "species": "slowbro",
+                "level": 54,
+                "moves": ["water gun", "growl", "withdraw", "amnesia"]
+            },
+            {
+                "species": "jynx",
+                "level": 56,
+                "moves": ["double slap", "ice punch", "body slam", "thrash"]
+            },
+            {
+                "species": "lapras",
+                "level": 56,
+                "moves": ["body slam", "confuse ray", "hydro pump", "blizzard"]
+            }
+        ]
+    },
+    "bruno": {
+        "class": "Elite",
+        "name": "BRUNO",
+        "categories": [1],
+        "team": [
+            {
+                "species": "onix",
+                "level": 53,
+                "moves": ["rock throw", "rage", "slam", "harden"]
+            },
+            {
+                "species": "hitmonchan",
+                "level": 55,
+                "moves": ["ice punch", "mega punch", "thunder punch", "counter"]
+            },
+            {
+                "species": "hitmonlee",
+                "level": 55,
+                "moves": ["jump kick", "focus energy", "high jump kick", "mega kick"]
+            },
+            {
+                "species": "onix",
+                "level": 56,
+                "moves": ["rock throw", "rage", "slam", "harden"]
+            },
+            {
+                "species": "machamp",
+                "level": 58,
+                "moves": ["leer", "focus energy", "fissure", "submission"]
+            }
+        ]
+    },
+    "agatha": {
+        "class": "Elite",
+        "name": "AGATHA",
+        "categories": [1],
+        "team": [
+            {
+                "species": "gengar",
+                "level": 56,
+                "moves": ["confuse ray", "night shade", "hypnosis", "dream eater"]
+            },
+            {
+                "species": "golbat",
+                "level": 56,
+                "moves": ["supersonic", "confuse ray", "wing attack", "haze"]
+            },
+            {
+                "species": "haunter",
+                "level": 55,
+                "moves": ["confuse ray", "night shade", "hypnosis", "dream eater"]
+            },
+            {
+                "species": "arbok",
+                "level": 58,
+                "moves": ["bite", "glare", "screech", "acid"]
+            },
+            {
+                "species": "gengar",
+                "level": 60,
+                "moves": ["confuse ray", "night shade", "toxic", "dream eater"]
+            }
+        ]
+    },
+    "lance": {
+        "class": "Elite",
+        "name": "LANCE",
+        "categories": [1, 3],
+        "team": [
+            {
+                "species": "gyarados",
+                "level": 58,
+                "moves": ["hydro pump", "dragon rage", "leer", "hyper beam"]
+            },
+            {
+                "species": "dragonair",
+                "level": 56,
+                "moves": ["agility", "slam", "dragon rage", "hyper beam"]
+            },
+            {
+                "species": "dragonair",
+                "level": 56,
+                "moves": ["agility", "slam", "dragon rage", "hyper beam"]
+            },
+            {
+                "species": "aerodactyl",
+                "level": 60,
+                "moves": ["supersonic", "take down", "bite", "hyper beam"]
+            },
+            {
+                "species": "dragonite",
+                "level": 62,
+                "moves": ["agility", "slam", "barrier", "hyper beam"]
+            }
+        ]
+    }
+}

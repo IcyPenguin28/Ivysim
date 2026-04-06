@@ -1,0 +1,26 @@
+.hpBarContainer {
+    position: relative;
+    width: 231px;
+    height: 63px;
+    background-image: url("../assets/images/bar.png");
+    background-size: cover;
+    text-align: right;
+}
+
+.hpBarFill {
+    position: absolute;
+    left: 72px;
+    top: 9px;
+    height: 6px;
+    width: 0;
+
+    background-color: #555555;
+    transition: width 0.2s linear;
+}
+
+.hpValues {
+    position: relative;
+    top: 40%;
+    right: 10%;
+    font-family: 'Pokemon Generation 1 Regular', sans-serif;
+}

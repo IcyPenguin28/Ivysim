@@ -1,0 +1,31 @@
+@keyframes teeter {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(15deg); }
+    75% { transform: rotate(-15deg); }
+    100% { transform: rotate(0deg); }
+}
+
+@keyframes bounce {
+    0%   { transform: translateY(0); }
+    50%  { transform: translateY(-15px); }
+    100% { transform: translateY(0); }
+}
+
+.pokeball:hover {
+    animation: teeter 0.5s ease-in-out;
+    transform-origin: center;
+}
+
+.pokemon:hover {
+    animation: bounce 0.3s infinite;
+}
+
+.pokeball {
+    height: 10vh;
+    width: auto;
+}
+
+.pokemon {
+    height: 10vh;
+    width: auto;
+}

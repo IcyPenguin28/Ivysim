@@ -1,0 +1,76 @@
+h1 {
+    text-align: center;
+    padding: 2.5%;
+    font-size: 2vw;
+}
+
+.linkedLogo {
+    position: absolute;
+    left: 10vw;
+}
+
+.linkedLogo img{
+    width: 15vw;
+    height: auto;
+}
+
+.speciesSelect {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.moveSelectContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.moveSelect {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    gap: 10px;
+}
+
+.nicknameSelect,
+.levelSelect {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0;
+}
+
+.hiddenStats {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+
+    width: 100%;
+    padding: 20px 0;
+}
+
+.dvContainer, .evContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    min-width: 150px;
+}
+
+.editorButtons {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.editorButtons button {
+    margin: 20px;
+    padding: 2.5%;
+}

@@ -1,0 +1,77 @@
+{
+    "normal": {
+        "weaknesses": ["fighting"],
+        "resistances": [],
+        "immunities": ["ghost"]
+    },
+    "fire": {
+        "weaknesses": ["ground", "rock", "water"],
+        "resistances": ["fire", "grass", "bug"],
+        "immunities": []
+    },
+    "water": {
+        "weaknesses": ["electric", "grass"],
+        "resistances": ["fire", "water", "ice"],
+        "immunities": []
+    },
+    "electric": {
+        "weaknesses": ["ground"],
+        "resistances": ["electric", "flying"],
+        "immunities": []
+    },
+    "grass": {
+        "weaknesses": ["fire", "ice", "poison", "flying", "bug"],
+        "resistances": ["water", "electric", "grass", "ground"],
+        "immunities": []
+    },
+    "ice": {
+        "weaknesses": ["fire", "fighting", "rock"],
+        "resistances": ["ice"],
+        "immunities": []
+    },
+    "fighting": {
+        "weaknesses": ["flying", "psychic"],
+        "resistances": ["bug", "rock"],
+        "immunities": []
+    },
+    "poison": {
+        "weaknesses": ["ground", "psychic", "bug"],
+        "resistances": ["grass", "fighting", "poison"],
+        "immunities": []
+    },
+    "ground": {
+        "weaknesses": ["water", "grass", "ice"],
+        "resistances": ["poison", "rock"],
+        "immunities": ["electric"]
+    },
+    "flying": {
+        "weaknesses": ["electric", "ice", "rock"],
+        "resistances": ["grass", "fighting", "bug"],
+        "immunities": ["ground"]
+    },
+    "psychic": {
+        "weaknesses": ["bug"],
+        "resistances": ["fighting", "psychic"],
+        "immunities": ["ghost"]
+    },
+    "bug": {
+        "weaknesses": ["fire", "poison", "flying", "rock"],
+        "resistances": ["grass", "fighting", "ground"],
+        "immunities": []
+    },
+    "rock": {
+        "weaknesses": ["water", "grass", "fighting", "ground"],
+        "resistances": ["normal", "fire", "poison", "flying"],
+        "immunities": []
+    },
+    "ghost": {
+        "weaknesses": ["ghost"],
+        "resistances": ["poison"],
+        "immunities": ["normal", "fighting"]
+    },
+    "dragon": {
+        "weaknesses": ["ice", "dragon"],
+        "resistances": ["fire", "water", "electric", "grass"],
+        "immunities": []
+    }
+}
